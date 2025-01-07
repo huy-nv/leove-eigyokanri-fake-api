@@ -115,5 +115,103 @@
       "userName": "吉本亮",
       "userNameKana": "ヨシモトリョウ"
     }
+  ],
+  "get-places": [
+    {
+      "id": 1,
+      "name": "Sukiyabashi Jiro",
+      "type": "food",
+      "position": { "lat": 35.673343, "lng": 139.761083 }
+    },
+    {
+      "id": 2,
+      "name": "Ichiran Ramen",
+      "type": "food",
+      "position": { "lat": 35.693825, "lng": 139.703356 }
+    },
+    {
+      "id": 3,
+      "name": "Ginza Kyubey",
+      "type": "food",
+      "position": { "lat": 35.671977, "lng": 139.764859 }
+    },
+    {
+      "id": 4,
+      "name": "Narisawa",
+      "type": "food",
+      "position": { "lat": 35.665494, "lng": 139.722618 }
+    },
+    {
+      "id": 5,
+      "name": "Kobe Beef Kaiseki 511",
+      "type": "food",
+      "position": { "lat": 35.673261, "lng": 139.740055 }
+    },
+    {
+      "id": 6,
+      "name": "Uniqlo",
+      "type": "fashion",
+      "position": { "lat": 35.662832, "lng": 139.703356 }
+    },
+    {
+      "id": 7,
+      "name": "Zara",
+      "type": "fashion",
+      "position": { "lat": 35.669494, "lng": 139.710618 }
+    },
+    {
+      "id": 8,
+      "name": "H&M",
+      "type": "fashion",
+      "position": { "lat": 35.675261, "lng": 139.720055 }
+    },
+    {
+      "id": 9,
+      "name": "Tokyo Medical Center",
+      "type": "medical",
+      "position": { "lat": 35.680494, "lng": 139.760618 }
+    },
+    {
+      "id": 10,
+      "name": "Shinjuku Hospital",
+      "type": "medical",
+      "position": { "lat": 35.690261, "lng": 139.750055 }
+    },
+    {
+      "id": 11,
+      "name": "Tokyo Disneyland",
+      "type": "entertainment",
+      "position": { "lat": 35.632896, "lng": 139.880394 }
+    },
+    {
+      "id": 12,
+      "name": "Ueno Zoo",
+      "type": "entertainment",
+      "position": { "lat": 35.715298, "lng": 139.773037 }
+    },
+    {
+      "id": 13,
+      "name": "University of Tokyo",
+      "type": "education",
+      "position": { "lat": 35.712677, "lng": 139.762217 }
+    },
+    {
+      "id": 14,
+      "name": "Waseda University",
+      "type": "education",
+      "position": { "lat": 35.708056, "lng": 139.719444 }
+    },
+    {
+      "id": 15,
+      "name": "Residential Area 1",
+      "type": "residential",
+      "position": { "lat": 35.70882, "lng": 139.75 }
+    },
+    {
+      "id": 16,
+      "name": "Commercial Area 1",
+      "type": "commercial",
+      "position": { "lat": 35.70884, "lng": 139.75 }
+    }
   ]
 }
