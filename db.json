@@ -1,5 +1,5 @@
 {
-  "visit": {
+  "get-visit": {
     "id": 1,
     "userId": "1",
     "facilityId": 2,
@@ -8,5 +8,112 @@
     "handoutType": [2, 3],
     "dateVisit": "2024/01/01",
     "remark": "test"
-  }
+  },
+  "get-requests": [
+    {
+      "id": 1,
+      "visitor": "吉本亮",
+      "visitType": "居宅",
+      "referralSourceType": "居宅",
+      "referral": ["田中太郎", "山田花子"],
+      "company": "高田馬場居宅",
+      "store": "早稲田店",
+      "personInCharge": ["田中太郎", "山田花子"],
+      "issue": ["ラブレター", "ノベルティ"],
+      "visitTime": "2024年06月04日 17:10",
+      "status": 1,
+      "userName": "吉本亮",
+      "userNameKana": "ヨシモトリョウ"
+    },
+    {
+      "id": 2,
+      "visitor": "吉本亮",
+      "visitType": "居宅",
+      "referralSourceType": "居宅",
+      "referral": ["田中太郎", "山田花子"],
+      "company": "高田馬場居宅",
+      "store": "早稲田店",
+      "personInCharge": ["田中太郎", "山田花子"],
+      "issue": ["ラブレター", "ノベルティ"],
+      "visitTime": "2024年06月04日 17:10",
+      "status": 1,
+      "userName": "吉本亮",
+      "userNameKana": "ヨシモトリョウ"
+    },
+    {
+      "id": 3,
+      "visitor": "吉本亮",
+      "visitType": "居宅",
+      "referralSourceType": "居宅",
+      "referral": ["田中太郎", "山田花子"],
+      "company": "高田馬場居宅",
+      "store": "早稲田店",
+      "personInCharge": ["田中太郎", "山田花子"],
+      "issue": ["ラブレター", "ノベルティ"],
+      "visitTime": "2024年06月04日 17:10",
+      "status": 1,
+      "userName": "吉本亮",
+      "userNameKana": "ヨシモトリョウ"
+    },
+    {
+      "id": 4,
+      "visitor": "吉本亮",
+      "visitType": "居宅",
+      "referralSourceType": "居宅",
+      "referral": ["田中太郎", "山田花子"],
+      "company": "高田馬場居宅",
+      "store": "早稲田店",
+      "personInCharge": ["田中太郎", "山田花子"],
+      "issue": ["ラブレター", "ノベルティ"],
+      "visitTime": "2024年06月04日 17:10",
+      "status": 2,
+      "userName": "吉本亮",
+      "userNameKana": "ヨシモトリョウ"
+    },
+    {
+      "id": 5,
+      "visitor": "吉本亮",
+      "visitType": "居宅",
+      "referralSourceType": "居宅",
+      "referral": ["田中太郎", "山田花子"],
+      "company": "高田馬場居宅",
+      "store": "早稲田店",
+      "personInCharge": ["田中太郎", "山田花子"],
+      "issue": ["ラブレター", "ノベルティ"],
+      "visitTime": "2024年06月04日 17:10",
+      "status": 2,
+      "userName": "吉本亮",
+      "userNameKana": "ヨシモトリョウ"
+    },
+    {
+      "id": 6,
+      "visitor": "吉本亮",
+      "visitType": "居宅",
+      "referralSourceType": "居宅",
+      "referral": ["田中太郎", "山田花子"],
+      "company": "高田馬場居宅",
+      "store": "早稲田店",
+      "personInCharge": ["田中太郎", "山田花子"],
+      "issue": ["ラブレター", "ノベルティ"],
+      "visitTime": "2024年06月04日 17:10",
+      "status": 3,
+      "userName": "吉本亮",
+      "userNameKana": "ヨシモトリョウ"
+    },
+    {
+      "id": 7,
+      "visitor": "吉本亮",
+      "visitType": "居宅",
+      "referralSourceType": "居宅",
+      "referral": ["田中太郎", "山田花子"],
+      "company": "高田馬場居宅",
+      "store": "早稲田店",
+      "personInCharge": ["田中太郎", "山田花子"],
+      "issue": ["ラブレター", "ノベルティ"],
+      "visitTime": "2024年06月04日 17:10",
+      "status": 1,
+      "userName": "吉本亮",
+      "userNameKana": "ヨシモトリョウ"
+    }
+  ]
 }
