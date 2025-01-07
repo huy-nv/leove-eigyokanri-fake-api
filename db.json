@@ -1,0 +1,12 @@
+{
+  "visit": {
+    "id": 1,
+    "userId": "1",
+    "facilityId": 2,
+    "address": "viet nam",
+    "doctorIds": [2, 3],
+    "handoutType": [2, 3],
+    "dateVisit": "2024/01/01",
+    "remark": "test"
+  }
+}
